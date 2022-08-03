@@ -15,7 +15,7 @@ import undetected_chromedriver as uc
 if __name__ == "__main__":
     extList = {'png', 'gif', 'PNG', 'GIF'}
 
-    keyWord = "jav rara anzai rion cumshot"
+    keyWord = "cute cat"
 
     dts = datetime.datetime.now().strftime("%y%m%d%H%M%S")
     # options = webdriver.ChromeOptions()
